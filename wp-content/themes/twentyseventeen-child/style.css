@@ -11,5 +11,12 @@ Version: 0.1.0
 /*test*/
 
 p {color: #595630;}
-.social-navigation a {background-color: #595630;
+.social-navigation a {background-color: #595630;}
 h2.widget-title {color:  #595630;}
+
+.entry-title {color: #595630; }
+.icon {
+    fill: #99934f;}
+.site-info {display: none;}
+p {font-family: Georgia, 'Times New Roman', Times, serif; }
+p {font-style: italic;}
